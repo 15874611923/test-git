@@ -1,4 +1,4 @@
-package cn.itcast;
+package cn.itcast.pojo;
 
 public class Test {
 
